@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A Web Developer working as a consultant for Morgan Stanley technology team in Mumbai, India.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[piyushranjan95@gmail.com](mailto:piyushranjan95@gmail.com)
