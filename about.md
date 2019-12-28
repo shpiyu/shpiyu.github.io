@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software engineer graduated from Pune University and working as an analyst for BlackRock in Mumbai, India.
+Computer engineer graduated from Pune university and working as an analyst for BlackRock in Mumbai.
 
 ### Contact me
 
