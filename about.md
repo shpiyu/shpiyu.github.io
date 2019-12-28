@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A Web Developer working as an analyst for BlackRock in Mumbai, India.
+Software engineer graduated from Pune University and working as an analyst for BlackRock in Mumbai, India.
 
 ### Contact me
 
