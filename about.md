@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A Web Developer working as a consultant for Morgan Stanley technology team in Mumbai, India.
+A Web Developer working as an analyst for BlackRock in Mumbai, India.
 
 ### Contact me
 
