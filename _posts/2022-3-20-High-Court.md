@@ -1,5 +1,7 @@
-# Heritage Tour of Bombay High Court
-
+---
+layout: post
+title: Heritage Tour of Bombay High Court
+---
 Today I visited Bombay High Court along with my friend Ajay. In this blog I'd like to share my experince of the tour and a short history of the Mumbai city.
 
 The tour started at 1 o'clock in the afternoon, when our guide Ms Nilima Gandhi Ullal gave us an introduction of the tour. She mentioned about the gothic, early English
